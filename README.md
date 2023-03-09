@@ -1,1 +1,1 @@
-# logica
+repositório para compartilhar projetos sobre lógica de programação ao longo das aulas da disciplina de linguagem de programação orientada a objetos
